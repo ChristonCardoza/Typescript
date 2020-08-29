@@ -9,4 +9,4 @@
 4. Typescript gives much flexibility like other Object Oriented Programming languages 
 5. Regardless of error thrown during compilation/transpilation it would generate Javascript file
 6. To utilize more functionalities of typescript use following command `tsc --init`
-7. To run individual `.ts` in viscual code run 'tsc <file_name>.ts && node <file_name>.js`
+7. To run individual `.ts` in viscual code run `tsc <file_name>.ts && node <file_name>.js`
